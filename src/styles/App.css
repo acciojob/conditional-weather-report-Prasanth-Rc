@@ -1,1 +1,14 @@
 
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+.weather-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+  display: inline-block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
